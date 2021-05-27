@@ -2,7 +2,7 @@
 
 I am Tamzid Ahmed.
 
-[![Tamzid Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamzid958&show_icons=true&theme=radical)](https://github.com/tamzid958/github-readme-stats)
+[![Tamzid Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamzid958&show_icons=true&theme=radical)](https://github.com/tamzid958)
 
 
 My Language Stack: 

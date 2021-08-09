@@ -1,10 +1,11 @@
 ### 👋 Hi there
 
 ```
-I am Tamzid Ahmed. Backend developer with over two year of successful experience in C#, Java, 
-Javascript and Python, recognized consistently for performance excellence and contributions 
-to success in the Cor[orate industry and OSS development. Strengths in C# and PHP backed by 
-training in Computer Science and Engineering and self-learned.
+I am Tamzid Ahmed. Backend developer with over two years of successful experience 
+in C#, Java, Javascript, and Python are recognized consistently for performance 
+excellence and contributions to success in the Corporate industry and OSS development. 
+Strengths in C# and PHP backed by training in Computer Science and Engineering and 
+self-learned.
 ```
 
 [![Tamzid Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamzid958&show_icons=true&theme=radical)](https://github.com/tamzid958)

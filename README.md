@@ -30,7 +30,8 @@ self-learned.
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-[![Follower](https://img.shields.io/github/followers/tamzid958?style=social)](https://github.com/tamzid958)
+[![Follower](https://img.shields.io/github/followers/tamzid958?style=social)](https://github.com/tamzid958)&nbsp;
+<img src="https://visitor-badge.glitch.me/badge?page_id=tamzid958"/>
 
 <p align="center">
 <a href="https://www.mrtvirushub.com"><img src="https://img.shields.io/badge/-mrtvirushub.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>

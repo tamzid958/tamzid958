@@ -1,4 +1,6 @@
-### 👋 Hi there
+### 👋 Hi there 
+[![Follower](https://img.shields.io/github/followers/tamzid958?style=social)](https://github.com/tamzid958) 
+<img src="https://visitor-badge.glitch.me/badge?page_id=tamzid958"/>
 
 ```
 I am Tamzid Ahmed. Backend developer with over two years of successful experience 
@@ -29,13 +31,9 @@ self-learned.
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 
-### 🤝🏻 &nbsp;Connect with Me
-[![Follower](https://img.shields.io/github/followers/tamzid958?style=social)](https://github.com/tamzid958)&nbsp;
-<img src="https://visitor-badge.glitch.me/badge?page_id=tamzid958"/>
+### 🤝🏻 &nbsp;Connect with Me 
 
-<p align="center">
 <a href="https://www.mrtvirushub.com"><img src="https://img.shields.io/badge/-mrtvirushub.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tamzid-ahmed958/"><img src="https://img.shields.io/badge/-Tamzid%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tamjidahmed958@gmail.com"><img src="https://img.shields.io/badge/-tamjidahmed958@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/tamzidahmedfahim"><img src="https://img.shields.io/badge/-@tamzidahmedfahim-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>

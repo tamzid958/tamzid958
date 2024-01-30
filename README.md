@@ -3,9 +3,20 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=tamzid958"/>
 
 ```
-(1) As an Associate Software Engineer at Dynamic Solution Innovators Ltd. (DSI), I have been leading and contributing to various projects that involve developing core logic, conducting meetings with stakeholders, analyzing and reviewing codes, and working with cutting-edge technologies such as Spring Boot, NextJs, Kubernetes, Jenkins, and AWS. I have also been recognized consistently for my performance excellence and contributions to the success of the company and the industry. 
+(1) As an Associate Software Engineer at Dynamic Solution Innovators Ltd. (DSI),
+I have been leading and contributing to various projects that involve developing
+core logic, conducting meetings with stakeholders, analyzing and reviewing codes,
+and working with cutting-edge technologies such as Spring Boot, NextJs, Kubernetes,
+Jenkins, and AWS. I have also been recognized consistently for my performance excellence
+and contributions to the success of the company and the industry. 
 
-(2) I graduated with a Bachelor of Science in Computer Engineering from American International University-Bangladesh in 2021, where I acquired a solid foundation in C#, Java, Javascript, and PHP. I also self-learned Python and completed several online courses and certifications on HTML, CSS, JavaScript, AngularJS, and Python. I am passionate about learning new skills and solving challenging problems. My goal is to leverage my backend development expertise and my computer engineering degree to create innovative and impactful solutions for the education and corporate sectors.
+(2) I graduated with a Bachelor of Science in Computer Engineering from American
+International University-Bangladesh in 2021, where I acquired a solid foundation
+in C#, Java, Javascript, and PHP. I also self-learned Python and completed several
+online courses and certifications on HTML, CSS, JavaScript, AngularJS, and Python.
+I am passionate about learning new skills and solving challenging problems.
+My goal is to leverage my backend development expertise and my computer engineering
+degree to create innovative and impactful solutions for the education and corporate sectors.
 ```
 
 [![Tamzid Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamzid958&show_icons=true&theme=radical)](https://github.com/tamzid958)

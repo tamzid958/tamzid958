@@ -1,20 +1,14 @@
 ### 👋 Hi there 
 [![Follower](https://img.shields.io/github/followers/tamzid958?style=social)](https://github.com/tamzid958) 
-<img src="https://visitor-badge.glitch.me/badge?page_id=tamzid958"/>
 
-```
-I am an Associate Software Engineer at Dynamic Solution Innovators Ltd. (DSI),
-a leading software development company in Bangladesh. I have been working on
-various projects that involve developing core logic, conducting meetings with
-stakeholders, analyzing and reviewing codes, and working with cutting-edge
-technologies such as Spring Boot, NextJs, Kubernetes, Jenkins, and AWS. One
-of my recent projects is IEIMS, a system that will manage the entire education
-system of Bangladesh, where I was the group team lead and developed the backend
-using Spring Boot. The project will be in production from 2024 and is expected
-to have a huge impact on the education sector.
-```
+I am a dedicated Associate Software Engineer at Dynamic Solution Innovators Ltd. (DSI), a prominent software development firm headquartered in Bangladesh. In this role, I am actively engaged in a spectrum of projects, contributing to the development of core logic, facilitating stakeholder meetings, meticulously reviewing and analyzing code, and harnessing cutting-edge technologies such as Spring Boot, Next.js, Kubernetes, Jenkins, and AWS.
 
-[![Tamzid Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamzid958&show_icons=true&theme=radical)](https://github.com/tamzid958)
+IEIMS (Bangladesh Education System) [2021-2023] <br>
+As the group team lead for IEIMS, tasked with architecting the core logic of Bangladesh's education system, I led a talented team through the development phase. Scheduled for production deployment in 2024, IEIMS is a monumental project implemented using Spring Boot and Next.js, with infrastructure management facilitated by Kubernetes and Jenkins. Additionally, I leveraged AWS services to augment project capabilities.
+
+Consilio - Envise [2023 - Present] <br>
+In my role as team lead for Consilio - Envise, I orchestrate crucial stakeholder meetings, fostering collaborative environments conducive to successful project outcomes. My responsibilities extend to managing scrum sessions and sprint planning, alongside meticulous analysis and code review. Utilizing Spring Boot, Flask, and employing SVM Machine Learning Algorithms, our ongoing efforts have culminated in the development of a robust product valued at 5 billion dollars.
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -33,7 +27,6 @@ to have a huge impact on the education sector.
 
 ### 🤝🏻 &nbsp;Connect with Me 
 
-<a href="https://www.mrtvirushub.com"><img src="https://img.shields.io/badge/-mrtvirushub.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tamzid-ahmed958/"><img src="https://img.shields.io/badge/-Tamzid%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tamjidahmed958@gmail.com"><img src="https://img.shields.io/badge/-tamjidahmed958@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://facebook.com/tamzidahmedfahim"><img src="https://img.shields.io/badge/-@tamzidahmedfahim-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>

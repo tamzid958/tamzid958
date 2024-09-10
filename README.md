@@ -2,7 +2,7 @@
 
 I am a dedicated Software Engineer at Dynamic Solution Innovators Ltd. (DSI), a prominent software development firm headquartered in Bangladesh. In this role, I am actively engaged in a spectrum of projects, contributing to the development of core logic, facilitating stakeholder meetings, meticulously reviewing and analyzing code, and harnessing cutting-edge technologies such as Spring Boot, Next.js, Kubernetes, Jenkins, and AWS.
 
-#### Consilio - Envise [2023 - Present]
+#### Consilio - Envize [2023 - Present]
 In my role as team lead for Consilio - Envise, I orchestrate crucial stakeholder meetings, fostering collaborative environments conducive to successful project outcomes. My responsibilities extend to managing scrum sessions and sprint planning, alongside meticulous analysis and code review. Utilizing Spring Boot, Flask, and employing SVM Machine Learning Algorithms, our ongoing efforts have culminated in the development of a robust product valued at 5 billion dollars.
 
 #### IEIMS (Bangladesh Education System) [2021-2023]

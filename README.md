@@ -6,7 +6,7 @@ I am a dedicated Software Engineer at Dynamic Solution Innovators Ltd. (DSI), a 
 In my role as team lead for Consilio - Envise, I orchestrate crucial stakeholder meetings, fostering collaborative environments conducive to successful project outcomes. My responsibilities extend to managing scrum sessions and sprint planning, alongside meticulous analysis and code review. Utilizing Spring Boot, Flask, and employing SVM Machine Learning Algorithms, our ongoing efforts have culminated in the development of a robust product valued at 5 billion dollars.
 
 #### IEIMS (Bangladesh Education System) [2021-2023]
-As the group team lead for IEIMS, tasked with architecting the core logic of Bangladesh's education system, I led a talented team through the development phase. Scheduled for production deployment in 2024, IEIMS is a monumental project implemented using Spring Boot and Next.js, with infrastructure management facilitated by Kubernetes and Jenkins. Additionally, I leveraged AWS services to augment project capabilities.
+As the group team manager for IEIMS, tasked with architecting the core logic of Bangladesh's education system, I led a talented team through the development phase. Scheduled for production deployment in 2024, IEIMS is a monumental project implemented using Spring Boot and Next.js, with infrastructure management facilitated by Kubernetes and Jenkins. Additionally, I leveraged AWS services to augment project capabilities.
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamzid-ahmed-fahim) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12420917) 

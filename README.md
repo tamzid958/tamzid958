@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I am a dedicated Software Engineer at Dynamic Solution Innovators Ltd. (DSI), a prominent software development firm headquartered in Bangladesh. In this role, I am actively engaged in a spectrum of projects, contributing to the development of core logic, facilitating stakeholder meetings, meticulously reviewing and analyzing code, and harnessing cutting-edge technologies such as Spring Boot, Next.js, Kubernetes, Jenkins, and AWS.
+Our team at Dynamic Solution Innovators benefits from my leadership as Engineering Manager (Product Unit Head), where I facilitate collaboration among engineers, designers, and product managers to deliver innovative, high-quality products. With a Bachelor of Science in Computer Engineering, I drive project goals with a clear focus on aligning product strategies with business objectives, exemplified by the successful migration to a new tech stack that improved performance by 20%.
 
-#### Consilio - Envize [2023 - Present]
-In my role as team lead for Consilio - Envise, I orchestrate crucial stakeholder meetings, fostering collaborative environments conducive to successful project outcomes. My responsibilities extend to managing scrum sessions and sprint planning, alongside meticulous analysis and code review. Utilizing Spring Boot, Flask, and employing SVM Machine Learning Algorithms, our ongoing efforts have culminated in the development of a robust product valued at 5 billion dollars.
-
-#### IEIMS (Bangladesh Education System) [2021-2023]
-As the group team manager for IEIMS, tasked with architecting the core logic of Bangladesh's education system, I led a talented team through the development phase. Scheduled for production deployment in 2024, IEIMS is a monumental project implemented using Spring Boot and Next.js, with infrastructure management facilitated by Kubernetes and Jenkins. Additionally, I leveraged AWS services to augment project capabilities.
+My core competencies in Spring Boot, Flask, and PHP are complemented by a solid foundation in computer engineering, gained from American International University-Bangladesh. We've managed to enhance product development workflows and stakeholder collaboration, ensuring our cross-functional team consistently meets and exceeds user satisfaction and business goals.
 
 ### Connect me⛓️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamzid-ahmed-fahim) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12420917) 

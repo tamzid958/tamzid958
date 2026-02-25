@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Our team at Dynamic Solution Innovators benefits from my leadership as Engineering Manager (Product Unit Head), where I facilitate collaboration among engineers, designers, and product managers to deliver innovative, high-quality products. With a Bachelor of Science in Computer Engineering, I drive project goals with a clear focus on aligning product strategies with business objectives, exemplified by the successful migration to a new tech stack that improved performance by 20%.
-
-My core competencies in Spring Boot, Flask, and PHP are complemented by a solid foundation in computer engineering, gained from American International University-Bangladesh. We've managed to enhance product development workflows and stakeholder collaboration, ensuring our cross-functional team consistently meets and exceeds user satisfaction and business goals.
+An experienced software engineer with a strategic focus on high-quality product delivery and innovation in software development. Experienced in leading product units, optimizing system architecture, and aligning roadmaps with company goals. Skilled in full-stack development, cloud infrastructure, Kubernetes, AWS, and CI/CD pipelines. Effective communicator and problem-solver dedicated to enhancing user experience and driving product success from start to launch.
 
 ### Connect me⛓️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamzid-ahmed-fahim) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12420917) 

@@ -18,7 +18,7 @@ $ whoami
 > I build things that scale, automate things that don't need humans, and
 > occasionally wonder if the agents I build will eventually replace me.
 > From distributed systems to agentic AI pipelines — if it runs in the
-> cloud and orchestrates itself, I probably built it at 2am. 🌙
+> cloud and orchestrates itself, I probably built it at 2am.
 
 ---
 

@@ -34,9 +34,13 @@ and autonomous workflows.
 - Turning repetitive business processes into reliable automation
 - Shipping AI features that are useful beyond demos
 
-## Top Contributed Repositories
+## Highlighted Projects
 
-![](https://github-contributor-stats.vercel.app/api?username=tamzid958&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- [ai-rails](https://github.com/tamzid958/ai-rails) — self-hosted AI governance for engineering teams
+- [ASP.NET-TX-Board](https://github.com/tamzid958/ASP.NET-TX-Board) — transaction monitoring and diagnostics for ASP.NET Core
+- [perform360](https://github.com/tamzid958/perform360) — self-hosted 360-degree performance review platform
+- [security-hackathon](https://github.com/tamzid958/security-hackathon) — multi-vector CTF platform with per-user flag protection
+- [QWiz](https://github.com/tamzid958/QWiz) — question bank management system
 
 ## Connect
 

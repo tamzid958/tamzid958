@@ -36,11 +36,12 @@ and autonomous workflows.
 
 ## Highlighted Projects
 
-- [ai-rails](https://github.com/tamzid958/ai-rails) — self-hosted AI governance for engineering teams
+- [claude-architect](https://github.com/tamzid958/claude-architect) — plug-and-play project generation framework for Claude Code workflows
 - [ASP.NET-TX-Board](https://github.com/tamzid958/ASP.NET-TX-Board) — transaction monitoring and diagnostics for ASP.NET Core
-- [perform360](https://github.com/tamzid958/perform360) — self-hosted 360-degree performance review platform
-- [QWiz](https://github.com/tamzid958/QWiz) — question bank management system
+- [ai-rails](https://github.com/tamzid958/ai-rails) — self-hosted AI governance for engineering teams
+- [forgeplan](https://github.com/tamzid958/forgeplan) — AI-assisted planning and execution tooling
 - [SEOAutowrite-Pro](https://github.com/tamzid958/SEOAutowrite-Pro) — automated SEO article generation for WordPress workflows
+- [perform360](https://github.com/tamzid958/perform360) — self-hosted 360-degree performance review platform
 
 ## Connect
 

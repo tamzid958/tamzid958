@@ -22,17 +22,19 @@ and autonomous workflows.
 
 ## What I Work On
 
-- Backend systems and platform engineering
-- Identity, auth, and enterprise workflow software
-- AI agents, automation pipelines, and internal tools
-- Cloud architecture and production delivery
+- Identity, access management, and enterprise authentication systems
+- Government, enterprise, and operations-heavy software platforms
+- Developer tooling, project scaffolding, and AI workflows for software engineering
+- Backend systems, internal tools, and modern admin applications
+- Cloud-native services, automation pipelines, and practical AI products
 
 ## Featured Areas
 
-- Building maintainable .NET and TypeScript systems
-- Designing APIs and auth flows that hold up in production
-- Turning repetitive business processes into reliable automation
-- Shipping AI features that are useful beyond demos
+- Building IAM, OIDC, and authorization systems for complex organizations
+- Creating developer tools and AI-assisted workflows that improve engineering speed and consistency
+- Designing maintainable APIs, admin panels, and cross-service integrations
+- Shipping public-sector and enterprise platforms across .NET, Java, and TypeScript stacks
+- Turning AI into useful engineering and operations tooling, not just demos
 
 ## Highlighted Projects
 

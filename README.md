@@ -51,4 +51,5 @@ across Java, C#, and TypeScript stacks.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamzid-ahmed-fahim)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12420917)
+[![Website](https://img.shields.io/badge/tamzid.dev-000000?style=flat&logo=google-chrome&logoColor=white)](https://tamzid.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://tamzid958.github.io/tamzid958/)
